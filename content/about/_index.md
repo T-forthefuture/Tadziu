@@ -1,9 +1,6 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About
+description: This is meta description
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+My name is Tadziu (pronounced like 'Tajoo') and my passion is making music. My wish is that my music can help heal people and spread peace and love. I am also interested in using new crypto tools to empower artists and creatives.
