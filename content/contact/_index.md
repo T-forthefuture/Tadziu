@@ -1,10 +1,7 @@
 ---
-title: "Contact"
-bg_image: "images/2020-landscape-2.png"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: Contact
+bg_image: images/2020-landscape-2.png
+description: This is meta description
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+---
+If you want to talk to me you can find me in the following discord servers: Audius, Voyager, Songcamp, and StemsDAO. Eventually I will make my own discord server where I will interact with all of those in my community. You can also find me on Twitter (@TadziuMusic) although I don't check that very often.
