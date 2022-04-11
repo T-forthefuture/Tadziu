@@ -3,23 +3,12 @@ title: Music
 description: This is meta description
 
 ---
-<p>This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show
-up in your site navigation (in most themes). Most people start with an About page that introduces them to
-potential site visitors. It might say something like this:</p>
+Below you can find links to all of the platforms that I use to post my music. Enjoy!
 
-<blockquote class="wp-block-quote">
-<p>Hi there! I&#8217;m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los
-Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin&#8217; caught in the rain.)
-</p>
-</blockquote>
+<a href = "[https://open.spotify.com/artist/5FOmDC8iLQ6ZSFXJsCbFpn?si=ArePIe12QtWFd5L1Rh_xEQ](https://open.spotify.com/artist/5FOmDC8iLQ6ZSFXJsCbFpn?si=ArePIe12QtWFd5L1Rh_xEQ "Spotify")"> Spotify</a>
 
-<p>&#8230;or something like this:</p>
+<a href = "[https://audius.co/tadziu](https://audius.co/tadziu "Audius")"> Audius</a>
 
-<blockquote class="wp-block-quote">
-<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever
-since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the
-Gotham community.</p>
-</blockquote>
+<a href = "[https://www.youtube.com/channel/UClQnUq5ApkQxVZ6zBu3XMCw](https://www.youtube.com/channel/UClQnUq5ApkQxVZ6zBu3XMCw "https://www.youtube.com/channel/UClQnUq5ApkQxVZ6zBu3XMCw")"> YouTube</a>
 
-<p>As a new WordPress user, you should go to your dashboard to delete this
-page and create new pages for your content. Have fun!</p>
+<a href = "[https://twitter.com/TadziuMusic](https://twitter.com/TadziuMusic "https://twitter.com/TadziuMusic")"> Twitter</a>
