@@ -46,7 +46,7 @@ image = "images/2020-landscape-1-2.png"
 heading = "Music, meditation, improvisation, and collaboration. Check out blog posts below or go to the About page to learn more about me."
 [params.call_to_action]
 button_label = "Music"
-button_url = "contact"
+button_url = "sample-page"
 content = "Click this button to go to the Music page where you can find links to all of the platforms I post music on."
 enable = true
 title = "Check out my music!"
